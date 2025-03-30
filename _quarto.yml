@@ -28,7 +28,7 @@ format:
     toc: true
     css: styles-v2.css
 
-editor: visual
-
 output-dir: docs
+
+editor: visual
 
