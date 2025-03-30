@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Framing Freedom"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: background.qmd
+        text: Background
+      - href: theory.qmd
+        text: Theory & Hypotheses
+      - href: method.qmd
+        text: Methodology
+      - href: analysis.qmd
+        text: Analysis
+      - href: findings.qmd
+        text: Findings
+      - href: timeline.qmd
+        text: Timeline
+      - href: about.qmd
+        text: About Us
+
+format:
+  html:
+    theme: flatly
+    toc: true
+    css: styles-v2.css
+
+editor: visual
+

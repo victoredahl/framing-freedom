@@ -1,0 +1,92 @@
+---
+title: "Methodology"
+format: html
+---
+
+# Effect of Sender’s Reputation on Recipient’s Level of Agreement
+
+In connection with the Open Day at the University of Stavanger, the political science program has developed a project to examine attitudes toward the protection of freedom of speech among youth. The project will investigate whether opinions on a political statement become more polarized when the statement comes from a controversial figure—represented in this study by Simen Velle—compared to when it is presentet by an anonymous entity.
+
+To explore this, we have chosen surveys as our data collection method, specifically through a digital questionnaire, which will enable us to provide a statistical representation of the phenomenon and its scope. The data collection will primarily take place during Åpen Dag 2025, and we will later analyze the factors that may influence the responses.
+
+Researchers in the field consider surveys to be the most commonly used data collection method in political science (Ringdal, 2018, p. 191), and by utilizing this method, we aim to highlight some of the skills developed in the program while also challenging stereotypes that political science graduates only work in politics or public administration.
+
+This text will explain why the survey questions were chosen, allowing interested readers to gain insight into the process and reasoning behind the study.
+
+---
+
+## Level of Agreement that Freedom of Speech is Under Pressure
+
+As mentioned above, the project focuses on exploring attitudes toward the protection of freedom of speech and to which extent these attitudes are influenced by the person making a statement about it.
+
+The main focus of the later analysis of responses will be on the level of agreement with the statements:
+
+> “There is no doubt that freedom of speech is under pressure.”  
+> “Young people no longer dare to say what they think.”
+
+These statements are direct quotes taken from youth politician Simen Velle during a TV debate.
+
+Participants in the survey are randomly assigned to one of two versions of the questionnaire: a control group or a treatment group.
+
+- In the **treatment group**, the statement is explicitly attributed to Simen Velle, including both his name and image.  
+- In the **control group**, the respondents receive a more neutral formulation:  
+  > “You may have heard that many in Norway say things like [...]”  
+  …without linking it to any specific individual.
+
+Control and treatment groups are commonly used in research to isolate the effect of an independent variable. In this case, it is used to isolate the effect that the association with Simen Velle has on the level of agreement to the statements.
+
+---
+
+## Why Include Additional Questions?
+
+The survey also includes a range of other questions to identify potential tendencies and provide a more comprehensive understanding of the phenomenon. These questions cover areas such as demographics, political orientation and participation, social media and news consumption, and political attitudes in private life.
+
+---
+
+### Demographics
+
+The demographic questions gather information on respondents' gender identity, age, county, and field of study.
+
+Questions about gender identity, age, and geographic location are common in surveys since there can sometimes be strong tendencies among different social groups. For example, research indicates that women tend to lean toward the left in politics, while men are more likely to align with the right (Amundsen, 2024).
+
+---
+
+### Political Orientation and Participation
+
+The political orientation and participation questions measure respondents’ interest in politics, confidence in their ability to engage in politics, placement on a left-right political scale from 0 to 10, and whether they feel aligned with a specific political party.
+
+---
+
+### Social Media and News Consumption
+
+The social media and news consumption questions examine respondents’ most frequently used news sources, their preferred social media platforms, and daily social media usage.
+
+By including these questions, we can analyze whether political polarization or high social media usage increases the likelihood of strongly agreeing or disagreeing with the statements.
+
+---
+
+### Political Attitudes in Private Life
+
+The political attitudes in private life questions ask whether respondents consider it important that their friends share their political views, whether they perceive their immediate family as politically aligned with them, and which qualities they believe children should be encouraged to develop.
+
+The survey also includes three questions regarding respondents’ feelings about politically incorrect language—specifically, whether they feel stressed, angry, or uncomfortable when encountering it.
+
+Because this is a vague and abstract topic which can be difficult to measure, multiple related questions are included to examine how these responses interact. This also applies to the question about which values the respondents believe children should be encouraged to develop. The question gives an indication of which values respondents believe are important in general, which may be difficult to answer head-on, and concretises it in the context of childcare.
+
+---
+
+## Analytical Potential
+
+In addition to testing specific hypotheses, these questions allow us to explore which variables have the strongest influence on responses.
+
+With the help of digital tools and programs, it is possible to calculate the effect of specific variables and estimate the extent to which the statement’s sender by itself affects the level of agreement with it.
+
+The method of collecting, analyzing, and presenting data are all some of the skills we develop in political science education, and are valuable not only in public administration, but in fields such as marketing and media as well.
+
+---
+
+## References
+
+Ringdal, K. (2018). *Enhet og mangfold: samfunnsvitenskapelig forskning og kvantitativ metode* (4th ed.). Vigmostad & Bjørke AS.
+
+Amundsen, B. (2024, April 16). Young women are becoming more left-leaning, according to data from multiple countries. *Forskning.no.* Retrieved from https://www.forskning.no/kjonn-og-samfunn-politikk-populisme/unge-kvinner-blir-mer-venstreorienterte-viser-data-fra-flere-land/2340504

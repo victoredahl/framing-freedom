@@ -1,0 +1,43 @@
+---
+title: "Survey project UiS - Freedom of Speech"
+---
+
+---
+title: "Framing Freedom"
+format: html
+---
+
+### A political science survey project at the University of Stavanger
+
+**How does political framing shape young people's perceptions of freedom of speech — and whether it’s under threat?**
+
+This website presents a quantitative research project led by bachelor students in political science at the University of Stavanger (UiS). The study explores how the framing of freedom of speech — particularly by well-known, right-leaning politicians — may influence **how high school students perceive the state of free speech today**.
+
+The data will be collected through a survey developed specifically for **“Åpen dag 2025”** at UiS, where visiting students engage with the university and learn about future study opportunities.
+
+---
+
+## 🎯 Purpose of this Website
+
+This site serves a dual purpose:
+
+- 📌 **Project Workspace** – A place for us to document and track our research process  
+- 🌍 **Public Portfolio** – A showcase of our skills in research design, analysis, and communication — for future employers, academic collaborators, and peers
+
+Use the navigation bar above to explore our theoretical framework, methods, findings, and more.
+
+---
+
+## 👥 Project Team
+
+**Bachelor students in political science at UiS:**
+
+- Victor Graf Dahl – ve.dahl@stud.uis.no  
+- Hanne Fazeli – h.fazeli@stud.uis.no  
+- Preeti Renberg – p.dhata@stud.uis.no  
+- Kristine Vanebo-Bøe – k.vanebo-boe@stud.uis.no  
+- Susan Myrseth Vistnes – sm.vistnes@stud.uis.no  
+
+**Project Coordinator:**  
+*Carlo Michael Knotz*, Associate Professor of Political Science  
+carlo.knotz@uis.no

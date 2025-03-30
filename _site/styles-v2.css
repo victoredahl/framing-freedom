@@ -1,0 +1,108 @@
+/* GENERAL BODY STYLE */
+body {
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #1A1A1A;
+  background-color: #fdfdfd;
+  max-width: 960px;
+  margin: auto;
+  padding: 2.5rem;
+}
+
+/* HEADINGS */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #00205B;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid #E6E7E8;
+  padding-bottom: 0.5rem;
+  letter-spacing: -0.5px;
+}
+
+h2 {
+  font-size: 1.9rem;
+  color: #1f3a60;
+  border-bottom: 1px solid #E6E7E8;
+  padding-bottom: 0.3rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+/* LINKS */
+a {
+  color: #005fa3;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #00396e;
+  text-decoration: underline;
+}
+
+/* BLOCKQUOTES */
+blockquote {
+  font-style: italic;
+  color: #444;
+  border-left: 4px solid #B7C9E2;
+  padding-left: 1rem;
+  margin: 2rem 0;
+  background-color: #f7f9fc;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+/* CALLOUT BOXES */
+.callout-note {
+  background-color: #f1f6fb;
+  border-left: 5px solid #155e75;
+  padding: 1.2rem 1.5rem;
+  margin: 2rem 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+}
+
+.callout-note h3 {
+  margin-top: 0;
+  color: #155e75;
+}
+
+/* BULLET LISTS */
+ul {
+  list-style-type: disc;
+  padding-left: 1.7rem;
+  margin-bottom: 1.5rem;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* COLUMNS FOR STRUCTURE */
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.column {
+  flex: 1;
+  min-width: 300px;
+}
+
+/* SECTION SPACING */
+section {
+  margin-bottom: 3rem;
+}

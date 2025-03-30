@@ -1,0 +1,32 @@
+---
+title: "Background"
+format: html
+---
+
+> 📢 **"Freedom of speech is under threat."**  
+> — A recurring phrase in modern political discourse, often tied to ideological narratives.
+
+**Freedom of speech** is widely regarded as a core democratic principle — but how it is understood, valued, or perceived to be "at risk" can vary significantly across generations and political identities.
+
+:::{.callout-note}
+### Why This Matters  
+Framing matters. The same message — depending on who says it — can trigger very different responses. In a polarized media landscape, these frames are more powerful than ever.
+:::
+
+## 🎯 Our Focus
+
+::: {.columns}
+
+::: {.column width="50%"}
+### Political Context  
+In recent years, the idea that free speech is being silenced has become a rallying point, especially within right-leaning political discourse. These claims often point to cancel culture, political correctness, or institutional bias.
+
+:::
+
+::: {.column width="50%"}
+### Youth Perspective  
+Our project investigates how **young people interpret these messages**, and whether their perceptions shift based on who delivers the message — particularly when it's a **charismatic, conservative figure**.
+
+:::
+
+:::

@@ -1,0 +1,49 @@
+---
+title: "Theory & Hypotheses"
+format: html
+---
+
+# Theoretical Framework
+
+We are interested in **attitudes toward protecting freedom of speech**, and to what extent those attitudes can be influenced by **elites** — in our case, well-known political social media personalities in Norway.
+
+Specifically, we ask:  
+**Does an endorsement of strong free speech protection by a controversial, young right-wing politician generate different patterns of support** than the exact same message when attributed to "society at large"?
+
+This study contributes to the growing body of research in **political psychology** on *elite-citizen communication* and *opinion framing effects* — particularly on how the **identity of the messenger** shapes how a message is received.
+
+> _“The effectiveness of political framing depends not just on the message — but on **who** delivers it.”_  
+> — Druckman (2001), *Journal of Politics*  
+> Lupia (2013), *PNAS*
+
+---
+
+# Hypotheses
+
+:::{.callout-note}
+### H1 — Polarization Through Personality  
+We hypothesize that an endorsement of free speech by a **controversial political personality** will lead to **greater polarization** in responses.  
+Put simply: when the message comes from a political and openly ideological social media figure, participants will be more divided in their level of agreement compared to when the message comes from a **non-political source**.
+:::
+
+:::{.callout-note}
+### H2 — Gender-Based Polarization  
+We expect that this polarization will vary significantly by **gender**.  
+Male respondents will be **more likely to agree** with the political figure’s endorsement of free speech than female respondents.  
+This gender-based polarization is expected to be **less pronounced** in the case of the non-political source.
+:::
+
+---
+
+## Visual Summary of Hypotheses
+
+The table below summarizes our core expectations about how framing source and gender interact in shaping responses to a message about protecting freedom of speech.
+
+| Framing Source                          | Male Response                | Female Response              |
+|----------------------------------------|------------------------------|------------------------------|
+| **Right-leaning Political Elite**       | Higher agreement (↑)         | Lower agreement (↓)          |
+| **Non-Political Source (Society at Large)** | Similar moderate agreement (→) | Similar moderate agreement (→) |
+
+<p style="text-align: center; font-size: 0.9rem; color: #555;">↑ Increase &nbsp;&nbsp; ↓ Decrease &nbsp;&nbsp; → No significant change</p>
+
+
